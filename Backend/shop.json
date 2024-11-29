@@ -1,0 +1,329 @@
+{
+  "success": true,
+  "products": [
+    {
+      "name": "Naturtrogen julgran",
+      "pris": 999,
+      "beskrivning": "En klassisk plastjulgran som ser ut som riktig gran.",
+      "kategori": "Julgranar",
+      "id": "b0c1",
+      "amountInStorage": 50,
+      "image": "https://images.pexels.com/photos/29488072/pexels-photo-29488072/free-photo-of-sno-dammade-julgranar-pa-natten.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "name": "Vit julgran",
+      "pris": 1199,
+      "beskrivning": "Elegant vit plastgran för en modern jul.",
+      "kategori": "Julgranar",
+      "id": "5897",
+      "amountInStorage": 30,
+      "image": "https://images.pexels.com/photos/6223464/pexels-photo-6223464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "name": "Mini-julgran",
+      "pris": 299,
+      "beskrivning": "En liten julgran som passar perfekt på bordet.",
+      "kategori": "Julgranar",
+      "id": "2e70",
+      "amountInStorage": 100,
+      "image": "https://images.pexels.com/photos/10651249/pexels-photo-10651249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "name": "Julgran med snöeffekt",
+      "pris": 1399,
+      "beskrivning": "En dekorativ gran med snöeffekt på grenarna.",
+      "kategori": "Julgranar",
+      "id": "eeee",
+      "amountInStorage": 25,
+      "image": "https://images.pexels.com/photos/6129297/pexels-photo-6129297.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Julgran med LED-ljus",
+      "pris": 1599,
+      "beskrivning": "En gran med inbyggda LED-ljus för enkel dekoration.",
+      "kategori": "Julgranar",
+      "id": "70cd",
+      "amountInStorage": 40,
+      "image": "https://images.pexels.com/photos/5686476/pexels-photo-5686476.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Ekologisk julgran",
+      "pris": 799,
+      "beskrivning": "En hållbart odlad riktig gran.",
+      "kategori": "Julgranar",
+      "id": "a41e",
+      "amountInStorage": 60,
+      "image": "https://images.pexels.com/photos/3811102/pexels-photo-3811102.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Julgransset med dekorationer",
+      "pris": 1099,
+      "beskrivning": "Plastgran inklusive kulor, ljusslinga och stjärna.",
+      "kategori": "Julgranar",
+      "id": "b041",
+      "amountInStorage": 20,
+      "image": "https://images.pexels.com/photos/936706/pexels-photo-936706.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Träjulgran",
+      "pris": 899,
+      "beskrivning": "En minimalistisk gran i trä för modern inredning.",
+      "kategori": "Julgranar",
+      "id": "51bb",
+      "amountInStorage": 15,
+      "image": "https://media.istockphoto.com/id/1189308433/sv/foto/alternativ-julgran.jpg?b=1&s=612x612&w=0&k=20&c=PUEOKmpYcYpoy0JPvimHMxlZ0vEChOWsbXZbE3ELP84="
+    },
+    {
+      "name": "Julgran i fiberoptik",
+      "pris": 1299,
+      "beskrivning": "Gran med inbyggd fiberoptisk belysning för färgspel.",
+      "kategori": "Julgranar",
+      "id": "013f",
+      "amountInStorage": 10,
+      "image": "https://images.pexels.com/photos/29502984/pexels-photo-29502984/free-photo-of-jultid.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Smalt julgransträd",
+      "pris": 999,
+      "beskrivning": "En smal gran för trånga utrymmen.",
+      "kategori": "Julgranar",
+      "id": "452e",
+      "amountInStorage": 35,
+      "image": "https://media.istockphoto.com/id/1716724549/sv/foto/christmas-tree-with-gift-boxes.jpg?b=1&s=612x612&w=0&k=20&c=rObxpVat6jmeMmwchOgOax4S4B9RJa1h3PwvJLtkBXU="
+    },
+    {
+      "name": "Julgran med frostade grenar",
+      "pris": 1399,
+      "beskrivning": "En gran med frostade grenar för vinterkänsla.",
+      "kategori": "Julgranar",
+      "id": "3226",
+      "amountInStorage": 55,
+      "image": "https://images.pexels.com/photos/5948116/pexels-photo-5948116.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Konstgjord gran på fot",
+      "pris": 699,
+      "beskrivning": "En enkel och stabil plastgran med metallfot.",
+      "kategori": "Julgranar",
+      "id": "60be",
+      "amountInStorage": 80,
+      "image": "https://images.pexels.com/photos/6102044/pexels-photo-6102044.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "LED-ljusslinga",
+      "pris": 199,
+      "beskrivning": "En klassisk LED-ljusslinga för både inomhus och utomhus.",
+      "kategori": "Belysning",
+      "id": "dc05",
+      "amountInStorage": 200,
+      "image": "https://images.pexels.com/photos/1146562/pexels-photo-1146562.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Ljusslinga med snöflingor",
+      "pris": 249,
+      "beskrivning": "Charmig ljusslinga med snöflingeformade lampor.",
+      "kategori": "Belysning",
+      "id": "075e",
+      "amountInStorage": 150,
+      "image": "https://images.pexels.com/photos/731187/pexels-photo-731187.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Julgransljus med clips",
+      "pris": 299,
+      "beskrivning": "LED-ljus som enkelt fästs på julgransgrenarna.",
+      "kategori": "Belysning",
+      "id": "ef15",
+      "amountInStorage": 120,
+      "image": "https://images.pexels.com/photos/29465907/pexels-photo-29465907.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Stjärnformad LED-lampa",
+      "pris": 349,
+      "beskrivning": "En stor lysande stjärna för fönster eller vägg.",
+      "kategori": "Belysning",
+      "id": "6fc1",
+      "amountInStorage": 75,
+      "image": "https://images.pexels.com/photos/6212467/pexels-photo-6212467.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Ljusgardin",
+      "pris": 599,
+      "beskrivning": "Ett gardinliknande nät med små ljus för fönster.",
+      "kategori": "Belysning",
+      "id": "e4ef",
+      "amountInStorage": 40,
+      "image": "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Nyårsraketslinga",
+      "pris": 399,
+      "beskrivning": "Ljusslinga formad som raketer, perfekt för nyår.",
+      "kategori": "Belysning",
+      "id": "bd4d",
+      "amountInStorage": 60,
+      "image": "https://images.pexels.com/photos/9017733/pexels-photo-9017733.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Frostade glödlampor",
+      "pris": 279,
+      "beskrivning": "Dekorativa lampor med frostat glas för vinterkänsla.",
+      "kategori": "Belysning",
+      "id": "e0e3",
+      "amountInStorage": 150,
+      "image": "https://images.pexels.com/photos/11604990/pexels-photo-11604990.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Stjärnljusslinga i guld",
+      "pris": 349,
+      "beskrivning": "En lyxig ljusslinga med guldfärgade stjärnor.",
+      "kategori": "Belysning",
+      "id": "93c3",
+      "amountInStorage": 200,
+      "image": "https://images.pexels.com/photos/7535043/pexels-photo-7535043.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Ljusstake i trä",
+      "pris": 499,
+      "beskrivning": "En klassisk adventsljusstake i trä.",
+      "kategori": "Belysning",
+      "id": "9752",
+      "amountInStorage": 80,
+      "image": "https://images.pexels.com/photos/6962856/pexels-photo-6962856.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Batteridriven ljusslinga",
+      "pris": 149,
+      "beskrivning": "En smidig batteridriven ljusslinga för flexibelt bruk.",
+      "kategori": "Belysning",
+      "id": "0dd5",
+      "amountInStorage": 300,
+      "image": "https://images.pexels.com/photos/754262/pexels-photo-754262.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Projektorlampa med snöeffekt",
+      "pris": 699,
+      "beskrivning": "Projekterar snöflingor på väggar och tak.",
+      "kategori": "Belysning",
+      "id": "cb3c",
+      "amountInStorage": 50,
+      "image": "https://images.pexels.com/photos/7504927/pexels-photo-7504927.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Färgskiftande LED-lampa",
+      "pris": 349,
+      "beskrivning": "En lampa som kan skifta mellan flera olika färger.",
+      "kategori": "Belysning",
+      "id": "91b4",
+      "amountInStorage": 120,
+      "image": "https://images.pexels.com/photos/3946161/pexels-photo-3946161.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Julkrans i granris",
+      "pris": 299,
+      "beskrivning": "En traditionell julkrans i konstgjort granris.",
+      "kategori": "Decoration",
+      "id": "ab93",
+      "amountInStorage": 50,
+      "image": "https://images.pexels.com/photos/5942618/pexels-photo-5942618.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Dekorationsfigurer i trä",
+      "pris": 199,
+      "beskrivning": "Set med små träfigurer, perfekt för julpynt.",
+      "kategori": "Decoration",
+      "id": "7b97",
+      "amountInStorage": 100,
+      "image": "https://images.pexels.com/photos/1194036/pexels-photo-1194036.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Nyårskonfetti",
+      "pris": 99,
+      "beskrivning": "Glittrande konfetti för nyårsfesten.",
+      "kategori": "Decoration",
+      "id": "c3a2",
+      "amountInStorage": 200,
+      "image": "https://images.pexels.com/photos/735277/pexels-photo-735277.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Tomtefigur",
+      "pris": 349,
+      "beskrivning": "En stor tomtefigur att ställa under granen.",
+      "kategori": "Decoration",
+      "id": "b573",
+      "amountInStorage": 45,
+      "image": "https://images.pexels.com/photos/29483422/pexels-photo-29483422/free-photo-of-handgjord-jultomte-pa-festligt-glitter.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Hängande snöflingor",
+      "pris": 249,
+      "beskrivning": "Dekorationer i form av snöflingor att hänga i taket.",
+      "kategori": "Decoration",
+      "id": "4f8f",
+      "amountInStorage": 100,
+      "image": "https://images.pexels.com/photos/745364/pexels-photo-745364.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Nyårsballonger",
+      "pris": 149,
+      "beskrivning": "Ballonger med nyårstema, perfekt för festen.",
+      "kategori": "Decoration",
+      "id": "6008",
+      "amountInStorage": 200,
+      "image": "https://images.pexels.com/photos/3371094/pexels-photo-3371094.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Julgranskulor i rött och guld",
+      "pris": 199,
+      "beskrivning": "Set med 24 kulor i klassiska julfärger.",
+      "kategori": "Decoration",
+      "id": "0cd7",
+      "amountInStorage": 150,
+      "image": "https://images.pexels.com/photos/29463054/pexels-photo-29463054/free-photo-of-festlig-semester-scen-med-gavor-och-prydnadsforemal.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Adventskalender i trä",
+      "pris": 599,
+      "beskrivning": "En återanvändbar adventskalender i trä med små lådor.",
+      "kategori": "Decoration",
+      "id": "c386",
+      "amountInStorage": 50,
+      "image": "https://images.pexels.com/photos/195030/pexels-photo-195030.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Mistel i plast",
+      "pris": 99,
+      "beskrivning": "Dekorativ mistel som kan hängas över dörrkarmen.",
+      "kategori": "Decoration",
+      "id": "d92c",
+      "amountInStorage": 300,
+      "image": "https://images.pexels.com/photos/235311/pexels-photo-235311.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Bordsduk med julmotiv",
+      "pris": 249,
+      "beskrivning": "En duk med klassiska julmotiv som passar till julbordet.",
+      "kategori": "Decoration",
+      "id": "ac7a",
+      "amountInStorage": 150,
+      "image": "https://images.pexels.com/photos/824306/pexels-photo-824306.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Snögubbe i porslin",
+      "pris": 399,
+      "beskrivning": "En dekorativ porslinssnögubbe för bord eller hylla.",
+      "kategori": "Decoration",
+      "id": "d750",
+      "amountInStorage": 60,
+      "image": "https://images.pexels.com/photos/263875/pexels-photo-263875.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    },
+    {
+      "name": "Ljusstake med snöglobe",
+      "pris": 449,
+      "beskrivning": "En ljusstake med inbyggd snöglobe som sprider julkänsla.",
+      "kategori": "Decoration",
+      "id": "848e",
+      "amountInStorage": 80,
+      "image": "https://images.pexels.com/photos/2635825/pexels-photo-2635825.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    }
+  ]
+}
